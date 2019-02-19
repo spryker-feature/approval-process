@@ -1,0 +1,18 @@
+{
+  "name": "spryker-feature/approval-process",
+  "description": "Approval process [feature]",
+  "type": "metapackage",
+  "license": "proprietary",
+  "minimum-stability": "dev",
+  "prefer-stable": true,
+  "require": {
+    "php": ">=7.1",
+    "spryker-shop/quote-approval-widget": "^1.0.0",
+    "spryker/quote-approval": "^1.0.0"
+  },
+  "extra": {
+    "branch-alias": {
+      "dev-master": "201902.x-dev"
+    }
+  }
+}
