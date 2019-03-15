@@ -1,6 +1,6 @@
 # Spryker Feature: Approval process
 
-Approval process - it’s ability to put  checkout conditions on checkout process (amount of money in the cart) and based on them allowing placing order or forcing to to ask permission to do it, from one role to another. Conditions can be placed on both roles amount money to buy and amount of money for approve.
+The Approval Process feature enables managers to control purchases requested by their employees. A customer can choose to have an order approved by a responsible person before allowing the checkout. The company administrator can limit some roles with flexible permissions and define a threshold on the Cart Total value so a buyer would need to ask for approval when the Cat Total limit is exceeded.
 
 ## Installation
 
