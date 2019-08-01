@@ -8,7 +8,7 @@
   "require": {
     "php": ">=7.1",
     "spryker-shop/quote-approval-widget": "^1.0.0",
-    "spryker/quote-approval": "^1.0.0"
+    "spryker/quote-approval": "^1.1.0"
   },
   "extra": {
     "branch-alias": {
