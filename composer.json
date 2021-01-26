@@ -6,13 +6,13 @@
   "minimum-stability": "dev",
   "prefer-stable": true,
   "require": {
-    "php": ">=7.2",
+    "php": ">=7.3",
     "spryker-shop/quote-approval-widget": "^1.2.0",
     "spryker/quote-approval": "^1.3.0"
   },
   "extra": {
     "branch-alias": {
-      "dev-master": "202009.x-dev"
+      "dev-master": "202107.x-dev"
     }
   }
 }
